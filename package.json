@@ -1,0 +1,25 @@
+{
+  "name": "node-red-contrib-web",
+  "version": "1.0.0",
+  "description": "Node-RED nodes to implement web server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pony-dog/node-red-contrib-web.git"
+  },
+  "keywords": [
+    "node-red",
+    "web",
+    "http",
+    "https",
+    "express"
+  ],
+  "author": "Maruthi Krishnappa",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/pony-dog/node-red-contrib-web/issues"
+  },
+  "homepage": "https://github.com/pony-dog/node-red-contrib-web#readme"
+}
